@@ -1,0 +1,15 @@
+.\cattrap.o: CatTrap.c
+.\cattrap.o: D:\Windows\Kiel5\ARM\ARMCC\Bin\..\include\stdint.h
+.\cattrap.o: ..\../inc/tm4c123gh6pm.h
+.\cattrap.o: ST7735.h
+.\cattrap.o: Print.h
+.\cattrap.o: Random.h
+.\cattrap.o: TExaS.h
+.\cattrap.o: ADC.h
+.\cattrap.o: Images.h
+.\cattrap.o: Sound.h
+.\cattrap.o: Timer1.h
+.\cattrap.o: Timer0.h
+.\cattrap.o: Button.h
+.\cattrap.o: Slicer.h
+.\cattrap.o: Board.h

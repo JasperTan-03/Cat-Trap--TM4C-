@@ -1,0 +1,10 @@
+.\slicer.o: Slicer.c
+.\slicer.o: D:\Windows\Kiel5\ARM\ARMCC\Bin\..\include\stdint.h
+.\slicer.o: ..\../inc/tm4c123gh6pm.h
+.\slicer.o: ST7735.h
+.\slicer.o: Print.h
+.\slicer.o: Random.h
+.\slicer.o: TExaS.h
+.\slicer.o: ADC.h
+.\slicer.o: Sound.h
+.\slicer.o: Timer1.h
